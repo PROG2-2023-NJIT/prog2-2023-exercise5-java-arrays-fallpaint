@@ -82,6 +82,7 @@ public class Main {
             System.out.println("Error!");
             System.exit(0);
         }
+        
         System.out.println("Please enter the number of adult passengers");
         Scanner getadultPassengers = new Scanner(System.in);
         Integer adultPassengers = getreturnday.nextInt();
