@@ -9,6 +9,7 @@ import javax.sound.sampled.SourceDataLine;
 import javax.security.auth.callback.ConfirmationCallback;
 
 public class FlightBooking {
+    
     public String flightCompany;
     public String flightID;
     public LocalDate departureDate;
